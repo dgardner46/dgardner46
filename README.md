@@ -1,25 +1,23 @@
-<h1>Hello, I'm Darrell! </h1>
+<body>
+    <div class="container">
+        <img src="profile.jpg" alt="Profile Picture">
+        <h1>Welcome to My GitHub</h1>
+        <p>Hi, I'm [Your Name], a passionate developer. Check out my projects below!</p>
+        <div class="links">
+            <a href="https://github.com/yourusername" target="_blank">GitHub Profile</a>
+            <a href="https://yourportfolio.com" target="_blank">Portfolio</a>
+            <a href="mailto:your.email@example.com">Contact Me</a>
+        </div>
+        <div class="projects">
+            <h2>My Projects</h2>
+            <ul>
+                <li><a href="https://github.com/yourusername/project1" target="_blank">Project 1</a></li>
+                <li><a href="https://github.com/yourusername/project2" target="_blank">Project 2</a></li>
+                <li><a href="https://github.com/yourusername/project3" target="_blank">Project 3</a></li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
 
-<h2> SQL Projects:</h2>
 
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
-<h2> Data Security projects</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
